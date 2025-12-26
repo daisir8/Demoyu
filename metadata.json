@@ -1,0 +1,5 @@
+{
+  "name": "Moyu Reader",
+  "description": "A stealthy reading application disguised as productivity tools (VS Code or Word) for reading novels at work.",
+  "requestFramePermissions": []
+}
